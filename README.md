@@ -14,3 +14,5 @@ Technologies used:
 <li> Bootswatch
 <li> Vanilla JS
 <li> FontAwesome
+
+![image](https://github.com/saulgutierrez/MyBookList/assets/62368834/8dba5ba1-dd1b-47e7-8da1-e21cde5bc885)
